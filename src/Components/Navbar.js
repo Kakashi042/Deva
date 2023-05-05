@@ -25,7 +25,7 @@ const Navbar = () => {
     <nav className='navbar' >
        <Link to='home' className='title' spy={true} smooth={true} offset={-120} duration={500}>
         <h1>
-            Dev_a
+            Deva
             </h1>
        </Link>
         <ul id='links' className={clicked?'#links active':'#links'} >
