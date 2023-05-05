@@ -18,7 +18,7 @@ const Home = () => {
       </div>
       <div className='content'>
         <h1>Front-End React Developer</h1>
-        <p>Hi, I'm Prajwal. A passionate Front-End React Developer based in Bengaluru, India.</p>
+        <p>Hi, I'm Prajwal. <br />Just a guy who's a Web Developer for fun</p>
         <span>
           <a aria-label="linkedin" rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/prajwal-k-72b232261" draggable='false'>
             <i class="fa-brands fa-linkedin"></i>
