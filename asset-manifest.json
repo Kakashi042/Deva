@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Deva/static/css/main.c0932b56.css",
+    "main.js": "/Deva/static/js/main.72e0ae80.js",
+    "static/js/787.3fe12f8b.chunk.js": "/Deva/static/js/787.3fe12f8b.chunk.js",
+    "static/media/coding.jpg": "/Deva/static/media/coding.7d535815e88e29dd7060.jpg",
+    "static/media/Squidward.jpg": "/Deva/static/media/Squidward.baef99bde3581ddbeda7.jpg",
+    "index.html": "/Deva/index.html",
+    "main.c0932b56.css.map": "/Deva/static/css/main.c0932b56.css.map",
+    "main.72e0ae80.js.map": "/Deva/static/js/main.72e0ae80.js.map",
+    "787.3fe12f8b.chunk.js.map": "/Deva/static/js/787.3fe12f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0932b56.css",
+    "static/js/main.72e0ae80.js"
+  ]
+}
